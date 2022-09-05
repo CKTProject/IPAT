@@ -1,0 +1,4 @@
+{
+    "gnn_units_list": [512],
+    "dnn_units_list": [256]
+}
